@@ -56,8 +56,8 @@ a{
     color: white;
     
 }
-section{
-    border: 1px solid;
+.section1{
+    /* border: 1px soli d; */
     width: 70%;
     text-align: center;
     margin: auto;
@@ -633,18 +633,27 @@ section{
     justify-content: center;
     align-items: center;
 }
-.section2{
-    border: 1px solid ;
-    width: 70%;
+.container5{
+    /* border: 1px solid; */
+    width: 94%;
+    height: 450px;
+    margin: 60px auto;
+    display: flex;
+    justify-content: space-between;
+}
+    .section2{
+    /* border: 1px solid ; */
+    width: 94%;
     height: 600px;
     margin: 50px auto;
     text-align: center;
     color: black;
-    font-size: 44.7055px;
+    font-size: 40px;
     font-weight: 700 ;
     line-height: 55.8818px;
     align-items: center;
     justify-content: center;
+    padding-top: 50px;
 }
 span{
     color: rgb(237, 28, 36);
@@ -652,4 +661,14 @@ span{
 .img2{
     height: 120px;
     margin-top: 40px;
+}
+.div27{
+    /* border: 1px solid; */
+    width: 900px;
+    margin: 20px auto;
+}
+.div28{
+    /* border: 1px solid; */
+    width: 1200px;
+    margin: 20px auto;
 }
